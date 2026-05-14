@@ -374,8 +374,8 @@ SDPFRONT/
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/saimahendra282/SDPFRONT.git
-cd SDPFRONT
+git clone https://github.com/BejawadaRajkumar/Certificate-tracking-platform-frontend.git
+cd Certificate-tracking-platform-frontend
 ```
 
 2. **Install dependencies**
